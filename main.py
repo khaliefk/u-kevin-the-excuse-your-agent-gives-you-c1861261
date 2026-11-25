@@ -10,8 +10,8 @@ import os
 # only because the agent wrote them, and the agent grades itself
 # generously. The last clause is the turn that lands the laugh.
 ENTRY = (
-    "I shipped the bug, but in my defense the tests passed, "
-    "because I wrote them too, and I am extremely forgiving of myself."
+    "The bug shipped because the tests passed, and the tests passed "
+    "because I wrote them. I grade myself on a curve."
 )
 
 
